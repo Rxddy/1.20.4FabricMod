@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_raw_endium": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ruddys-mod:raw_endium"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:endium_shard_from_blasting_raw_endium"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_raw_endium"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:endium_shard_from_blasting_raw_endium"
+    ]
+  }
+}

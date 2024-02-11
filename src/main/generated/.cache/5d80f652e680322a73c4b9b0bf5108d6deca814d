@@ -1,0 +1,18 @@
+// 1.20.4	2024-02-11T05:03:52.6029091	Ruddys Mod/Model Definitions
+03624da52471259443440c178bb5da643ed51831 assets\ruddys-mod\models\item\endium_axe.json
+c4d81d29bf3e3842d00e0be5a0e0d0b3d94fd480 assets\ruddys-mod\models\item\endium_hoe.json
+806a2a7d4b693c27601f75555a7310ad38ac92b7 assets\ruddys-mod\models\item\endium_ore.json
+a3a463f07c0e37a1a980df4d59fe30cd2eb33635 assets\ruddys-mod\models\item\endium_block.json
+3cc6ebf6ffea88cb53b1237702cee9b8cbe66e02 assets\ruddys-mod\models\item\endium.json
+c55aa81102c236b7ed4ec703e61b808eaf6f3cdd assets\ruddys-mod\models\item\endium_shard.json
+180e6f5e26db85fc4b9556cb69156c10e6ea7c96 assets\ruddys-mod\blockstates\raw_endium_block.json
+3da325852228a01d2c420c89e7a9f14a7e53b97b assets\ruddys-mod\models\item\raw_endium_block.json
+23373cd62f92b78d24f7d8e71273f77de9f0170e assets\ruddys-mod\models\item\raw_endium.json
+ba4ca9f82f709515bc95f31035fb3fabefad1246 assets\ruddys-mod\blockstates\endium_ore.json
+0349776bf99dd3e2c79bcf787337560c4b8952bf assets\ruddys-mod\models\block\endium_ore.json
+71babc61429de93b64c1e385423ef0fbb08f8694 assets\ruddys-mod\models\item\endium_shovel.json
+1e4e5b83b7e3387c2d5f52c4f03c55913e998fed assets\ruddys-mod\models\block\raw_endium_block.json
+d99069a92fd4c7f81b33e316ca2d48d6212db190 assets\ruddys-mod\blockstates\endium_block.json
+4dc23fb0b340d6cdf764e76c9977be3cf5d35bc3 assets\ruddys-mod\models\block\endium_block.json
+650a4d17bc3dc94e405b133628e3a6d7fb67bae2 assets\ruddys-mod\models\item\endium_pickaxe.json
+422ac3bb58e8219942e7e8f182d8dbc646672459 assets\ruddys-mod\models\item\endium_sword.json

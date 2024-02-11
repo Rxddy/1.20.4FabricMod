@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "ruddys-mod:block/raw_endium_block"
+  }
+}

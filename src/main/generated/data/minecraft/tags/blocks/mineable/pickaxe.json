@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "ruddys-mod:raw_endium_block",
+    "ruddys-mod:endium_block",
+    "ruddys-mod:endium_ore"
+  ]
+}

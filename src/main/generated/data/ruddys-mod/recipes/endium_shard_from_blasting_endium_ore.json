@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "group": "endium",
+  "ingredient": {
+    "item": "ruddys-mod:endium_ore"
+  },
+  "result": "ruddys-mod:endium_shard"
+}

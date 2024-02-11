@@ -1,0 +1,19 @@
+{
+  "item.ruddys-mod.endium": "Endium",
+  "item.ruddys-mod.raw_endium": "Raw Endium",
+  "item.ruddys-mod.endium_shard": "Endium Shard",
+
+  "block.ruddys-mod.endium_block": "Block of Endium",
+  "block.ruddys-mod.raw_endium_block": "Block of Raw Endium",
+  "block.ruddys-mod.endium_ore": "Endium Ore",
+
+  "item.ruddys-mod.endium_sword": "Endium Sword",
+  "item.ruddys-mod.endium_pickaxe": "Endium Pickaxe",
+  "item.ruddys-mod.endium_axe": "Endium Axe",
+  "item.ruddys-mod.endium_shovel": "Endium Shovel",
+  "item.ruddys-mod.endium_hoe": "Endium Hoe",
+
+
+
+  "itemgroup.endium": "RuddysMod"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "ruddys-mod:endium_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "ruddys-mod:endium"
+  }
+}
